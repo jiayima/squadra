@@ -191,6 +191,14 @@ members:
             email: sparxs@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Jiayi Ma
+        github:
+            username: jiayima
+            role: member
+        mailgun:
+            email: jiayima@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Lisa Vu
         github:
             username: lisaqvu
